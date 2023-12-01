@@ -1,1 +1,5 @@
-Adios Mundo
+Desde la carpeta proyectos.java
+
+Donde podamos visualizar este archivo ejecutamos git init y ya podremos 
+manuplar nuestros archivos para git
+
